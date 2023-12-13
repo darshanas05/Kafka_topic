@@ -1,7 +1,5 @@
 # Kafka_topic
 
-Using Confluent Kafka as the cloud platform to read and write data.
-
 Python script for Kafka producer to write/publish data from a SQL database and publishing it.
 
 Python script for Kafka consumer to read data as it is published.

@@ -1,11 +1,7 @@
 # Kafka_topic
 
-Using Confluent Kafka as the cloud platform to read and write data.
+Hello and Welcome to Kafka project where we will be using python scripts to write/publish and read/subcribe data from a Kafka Topic
 
-Python script for Kafka producer to write/publish data from a SQL database and publishing it.
-
-Python script for Kafka consumer to read data as it is published.
-
-Added .txt file with the schema for kafka
+Using Confluent Kafka as the cloud platform.
 
 Using the concept of topics and broker so that cusumer groups can read data from partitions.

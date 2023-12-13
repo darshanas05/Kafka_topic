@@ -6,3 +6,4 @@ Using python Kafka producer code for writing data from a local SQL database and 
 
 Using python Kafka consumer code to read data as it is published.
 
+Added .txt file with the schema for kafka

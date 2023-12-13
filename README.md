@@ -1,6 +1,8 @@
 # Kafka_topic
 
-Hello and Welcome to Kafka project where we will be using python scripts to write/publish and read/subcribe data from a Kafka Topic
+Hello and Welcome to Kafka project
+
+Where we will be using python scripts to write/publish and read/subcribe data from a Kafka Topic
 
 Using Confluent Kafka as the cloud platform.
 
